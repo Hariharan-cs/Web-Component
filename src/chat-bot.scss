@@ -1,0 +1,9 @@
+$h1Color:#929292;
+$spanColor:#ff5722;
+
+h1{
+   color: $h1Color;
+   span{
+       color: $spanColor;
+   }
+}

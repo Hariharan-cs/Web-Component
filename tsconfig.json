@@ -1,0 +1,24 @@
+{
+    "version": "2.0.2",
+    "compilerOptions": {
+        "lib": ["es5", "es6", "es7", "es2015.promise", "dom", "es2015", "webworker", "es2017"],
+        "target": "es2015",
+        "typeRoots": [
+          "node_modules/@types",
+          "./src/types"
+        ],
+        "sourceRoot": "src",
+        "outDir": "tmp",
+        "module": "es2015",
+        "moduleResolution": "node",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "declaration": false,
+        "sourceMap": true,
+    },
+    "exclude": [
+        "node_modules",
+        "old"
+    ]
+}
