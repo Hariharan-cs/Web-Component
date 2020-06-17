@@ -1,4 +1,4 @@
-# Web-Components
+# Web-Components Polymer Lit-Element
 This repository contains a basic architecture of web components using polymer lit-element and lit-html with Webpack 
 
 Process 1 : 
